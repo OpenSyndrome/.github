@@ -29,7 +29,7 @@ Our paper was published in the *Journal of Medical Internet Research*:
 ## Explore
 
 - **Website & data browser:** [opensyndrome.org](https://opensyndrome.org)
-- **Dataset on Hugging Face:** [`opensyndrome/case-definitions`](https://huggingface.co/datasets/opensyndrome/case-definitions)
+- **Dataset on Hugging Face:** [opensyndrome/case-definitions](https://huggingface.co/datasets/opensyndrome/case-definitions)
 - **Schema docs:** [opensyndrome.org/how/documentation](https://opensyndrome.org/how/documentation)
 
 ## Contribute
