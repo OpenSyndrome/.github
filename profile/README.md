@@ -12,8 +12,6 @@ Our paper was published in the *Journal of Medical Internet Research*:
 
 > Ferreira et al. **The Open Syndrome Definition as a Machine-Readable Standard for Public Health.** *J Med Internet Res* 2026;28:e86249. https://doi.org/10.2196/86249
 
----
-
 ## What's in this organization
 
 **Format & data**
@@ -27,18 +25,15 @@ Our paper was published in the *Journal of Medical Internet Research*:
 **Platform**
 - [`website`](https://github.com/OpenSyndrome/website) -- source for [opensyndrome.org](https://opensyndrome.org), including the data browser and contribution workflow
 
----
-
 ## Explore
 
 - **Website & data browser:** [opensyndrome.org](https://opensyndrome.org)
 - **Dataset on Hugging Face:** [`opensyndrome/case-definitions`](https://huggingface.co/datasets/opensyndrome/case-definitions)
 - **Schema docs:** [opensyndrome.org/how/documentation](https://opensyndrome.org/how/documentation)
 
----
-
 ## Contribute
 
 Submit a new definition via the [web form](https://opensyndrome.org/how/) or open a pull request in [`definitions`](https://github.com/OpenSyndrome/definitions). All submissions go through automated schema validation and community review.
 
-Questions? [opensyndrome@anapaulagomes.me](mailto:opensyndrome@anapaulagomes.me) · License: MIT
+Questions? [opensyndrome@anapaulagomes.me](mailto:opensyndrome@anapaulagomes.me)
+
